@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SerachingInListview</string>
+       <string name="hello_world">Hello world!</string>
+        <string name="menu_settings">Settings</string>
+        <string name="title_activity_main">Filter ListView Tutorial</string>
+        <string name="ranklabel">"Voucher Request : "</string>
+        <string name="countrylabel">"UserName : "</string>
+        <string name="populationlabel">"UserEmail : "</string>
+
+    </resources>
